@@ -34,3 +34,4 @@ build/
 
 # Claude Code ローカルworktree
 .claude/worktrees/
+.company/coaching/clients/
