@@ -27,3 +27,10 @@ Thumbs.db
 # Build outputs
 dist/
 build/
+
+# クライアント個人データ（GitHubに上げない）
+.company/coaching/mini-sessions/
+.company/coaching/program-review/
+
+# Claude Code ローカルworktree
+.claude/worktrees/
