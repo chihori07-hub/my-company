@@ -5,7 +5,7 @@
 
 | 媒体 | ファイル | 状態 |
 |------|---------|------|
-| Threads | `threads-style-guide.md` | 運用中 |
+| Threads | `threads-プロジェクト指示書.md`（最上位ルール・2026-09）＋ `threads-style-guide.md` | 運用中。食い違う時は指示書を優先 |
 | note | `note-style-guide.md` | 作成済み（2026-07）。過去記事33本は `note/過去記事/`（README に一覧・反応良好8本） |
 | LINE | （未作成） | 準備中 |
 
