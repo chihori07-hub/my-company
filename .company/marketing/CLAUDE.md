@@ -6,7 +6,7 @@
 | 媒体 | ファイル | 状態 |
 |------|---------|------|
 | Threads | `threads-プロジェクト指示書.md`（最上位ルール・2026-09）＋ `threads-style-guide.md` | 運用中。食い違う時は指示書を優先 |
-| note | `note-style-guide.md` | 作成済み（2026-07）。過去記事33本は `note/過去記事/`（README に一覧・反応良好8本） |
+| note | `note-style-guide.md` ＋ スキル `.claude/skills/note投稿/`（2026-10） | 運用中。過去記事40本は `note/過去記事/`（README に一覧）。直近の基準記事は916・927 |
 | LINE | （未作成） | 準備中 |
 
 ## 中庸思考ルール
