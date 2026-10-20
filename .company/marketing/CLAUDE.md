@@ -6,7 +6,7 @@
 | 媒体 | ファイル | 状態 |
 |------|---------|------|
 | Threads | `threads-style-guide.md` | 運用中 |
-| note | `note-style-guide.md` | 作成済み（2026-07）。過去記事33本は `note/過去記事/`（README に一覧・反応良好8本） |
+| note | `note-style-guide.md` | 作成済み（2026-07）、2026-10更新。過去記事33本は `note/過去記事/`（README に一覧・反応良好8本）。2026年8月以降の記事はGoogleドライブの月別noteファイル。作成手順はスキル「note記事」 |
 | LINE | （未作成） | 準備中 |
 
 ## 中庸思考ルール
