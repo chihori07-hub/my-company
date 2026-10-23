@@ -42,6 +42,9 @@
 
 
 
-## ナレッジ（発信・記事作成時に参照）
-- `knowledge/story-writing-lecture.md`：ストーリーライティング講義録。**いつも使う型ではなく、選べる書き方のひとつ**。売り込みをせずに読み物として読んでもらい、ファンになってもらいたいコラム（ストーリーズ・公式LINE・note など）や、知帆里さんから指定があったときに使う。告知・セールス・リマインド・ナウの教育など目的が違う発信では、その目的に合った書き方を選ぶ。リール台本には使わない。
-- `knowledge/launch-2026-11-meeting.md`：11月ローンチ（11/18配布：ロング動画＋テキスト＋個別相談の3点セット）のコンサルミーティング記録。スケジュール・アクション・発信スタンス（「真剣に伝えるから真剣に来てね」）をまとめている。ローンチ関連の発信を作るときに参照する。
+## 発信物を作るときの決まり（必ず守る）
+- 業務の実体は `.company/` にある（`.company/CLAUDE.md` の組織構成・運営ルールに従う）。
+- Threads・note・LINE・LP などの発信物を作る前に、**必ず** `.company/marketing/CLAUDE.md` と、その媒体のスタイルガイド（note → `.company/marketing/note-style-guide.md`、Threads → `.company/marketing/threads-style-guide.md`）、違和感学習ログ、過去記事の★を読む。
+- 体験談は `.company/marketing/ストーリーバンク_東山知帆里_マスター.md`（開示レベル表）から引く。**新しいエピソードを作らない**。
+- `.company/marketing/story-writing-lecture.md`：ストーリーライティング講義録。**いつも使う型ではなく、選べる書き方のひとつ**。スタイルガイドが優先。
+- `.company/marketing/campaigns/2026-11-launch/`：11月ローンチ（11/18配布：ロング動画＋テキスト＋個別相談の3点セット）の資料。
