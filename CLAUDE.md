@@ -1,3 +1,9 @@
+## 作業前に読むもの
+- 発信物・資料づくりの詳しいルールと資料は `.company/` にある（隠しフォルダ）。まず `.company/CLAUDE.md` と、該当部署の `CLAUDE.md` を読む
+- note記事 → スキル「note記事」の手順に従う（`.company/marketing/note-style-guide.md`、Googleドライブの月別noteファイル）
+- Threads投稿 → スキル「Threads投稿」の手順に従う
+- 下書きと修正のやりとりはチャットで行い、確定したら最後に一度だけGoogleドキュメントへ書き込む
+
 ## オーナープロフィール
 - **屋号 / 会社名**:Coa-Terasu
 - **代表**:東山知帆里
