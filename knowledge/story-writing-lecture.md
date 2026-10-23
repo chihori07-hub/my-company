@@ -4,7 +4,7 @@
   https://docs.google.com/document/d/1v04K5GfU5rxBeW0dnnSMZarDunOhaz4ACjRY0Mq0G5c/edit
 - 講師：ごっちゃんさん（講義内の一人称「僕」「私」）
 - 記録日：2026-10-23
-- 用途：note・Threads・インスタのストーリーズ・公式LINE配信・コラム記事の作成時に参照する
+- 用途：書き方の選択肢のひとつ。読み物として届けたいコラム（note・ストーリーズ・公式LINE など）や、指定があったときに参照する。すべての発信に当てはめるものではない
 
 ---
 
