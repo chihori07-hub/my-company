@@ -83,6 +83,8 @@
 
 ## 発信物を作るときの決まり（必ず守る）
 - 業務の実体は `.company/` にある（`.company/CLAUDE.md` の組織構成・運営ルールに従う）。
+- **main は最新とは限らない**。作業前に `git fetch` し、`origin/claude/*` ブランチに main 未反映の更新（スタイルガイド・ターゲット・スキル）がないか確認して取り込む（2026-10-23 に7月版のガイドで書いてしまった）。
+- note は スキル「note記事」の手順で書く（投稿済み本文の正は Google ドライブの月別noteファイル）。
 - Threads・note・LINE・LP などの発信物を作る前に、**必ず** `.company/marketing/CLAUDE.md` と、その媒体のスタイルガイド（note → `.company/marketing/note-style-guide.md`、Threads → `.company/marketing/threads-style-guide.md`）、違和感学習ログ、過去記事の★を読む。
 - 体験談は `.company/marketing/ストーリーバンク_東山知帆里_マスター.md`（開示レベル表）から引く。**新しいエピソードを作らない**。
 - `.company/marketing/story-writing-lecture.md`：ストーリーライティング講義録。**いつも使う型ではなく、選べる書き方のひとつ**。スタイルガイドが優先。
